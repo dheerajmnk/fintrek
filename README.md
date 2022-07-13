@@ -1,6 +1,6 @@
 ## Fintrek
 
-This project is a finance tracker application built using React and Firebase. It uses React Router to navigate across the login, signup and home page. The Home Page consists of both Transaction Form and Transaction List component. Various hooks are used in order to interact with Firebase Authentication and Database services.
+This project is a finance tracker application built using React and Firebase. The users can add upcoming/pending transactions to their Fintrek account and delete them when they are done. It uses React Router to navigate across the login, signup and home page. The Home Page consists of both Transaction Form and Transaction List component. Various hooks are used in order to interact with Firebase Authentication and Database services.
 
 ## Features
 
